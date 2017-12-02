@@ -72,7 +72,7 @@ function popup(list){
 		failed=0;
 	}
 	if(list==""){
-			div.innerHTML="Sorry,no result";
+			div.innerHTML="Sorry,no results";
 	}
 	flag=1;
 }
