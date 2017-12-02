@@ -101,5 +101,5 @@ document.onreadystatechange = function () {
 		action();
     }
 }
-}
+
 
